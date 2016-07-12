@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Activities</string>
+  <string name="activityPlain">Start plain activity</string>
+  <string name="activityForResult">Start activity for result</string>
+</resources>
